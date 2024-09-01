@@ -1,4 +1,4 @@
-My first game with using a pygame module. 
+My first game using a pygame module. 
 
 Game has a basic functionality of moving ball and purple butterfly trying to catch the ball. 
 Ball gets bigger everytime it eats yellow square (banana) so the game get harder as you play.
