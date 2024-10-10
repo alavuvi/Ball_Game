@@ -1,4 +1,4 @@
-My First Game Using the Pygame Module
+My First Game Using the Pygame module.
 
 In this game, you take on the role of a ball with a mission: to catch as many bananas as possible! You can move the ball using the arrow keys on your keyboard.
 
@@ -7,3 +7,5 @@ But beware! A purple butterfly will start chasing you, adding an element of dang
 The game features a simple high score system and an easy-to-navigate menu.
 
 HAVE FUN PLAYING!
+
+
